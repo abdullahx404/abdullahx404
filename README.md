@@ -2,15 +2,15 @@
 I am a Software Engineering student focused on Artificial Intelligence and Data Structures and Algorithms.
 
 I am currently:
-• Building AI projects
-• Practicing DSA for strong problem solving
-• Improving skills in Python and core CS fundamentals
+- Building AI projects
+- Practicing DSA for strong problem solving
+- Improving skills in Python and core CS fundamentals
 
 My interests include:
-• Machine Learning
-• Deep Learning
-• Algorithms and optimization
-• Backend and scalable systems
+- Machine Learning
+- Deep Learning
+- Algorithms and optimization
+- Backend and scalable systems
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdullah-zia-204a051a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahkhanzia07@gmail.com) 

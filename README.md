@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+there%2C+I'm+Abdullah!+%F0%9F%91%8B;Software+Engineering+Student;AI+%26+ML+Enthusiast;Backend+%26+Scalable+Systems;DSA+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+there%2C+I'm+Abdullah!;Software+Engineering+Student;Artificial+Intelligence;Data+Structures+%26+Algorithms;Backend+%26+Scalable+Systems" alt="Typing SVG" />
   
   <p>
     <a href="mailto:abdullahkhanzia07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -7,21 +7,15 @@
     <a href="https://github.com/abdullahx404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   </p>
   
-  <a href="https://github.com/abdullahx404"><img src="https://visitcount.itsvg.in/api?id=abdullahx404&icon=0&color=1" alt="Profile views"/></a>
-</div>
-
-<!-- Quick Status Cards -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahx404&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahx404&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <a href="https://github.com/abdullahx404"><img src="https://komarev.com/ghpvc/?username=abdullahx404&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile views"/></a>
 </div>
 
 ---
 
-##About Me
+## About Me
 
 <p align="center">
-  I'm a <b>Software Engineering student</b> focused on Artificial Intelligence and Data Structures & Algorithms. My passion lies in solving complex problems and building robust systems:
+  I am a <b>Software Engineering student</b> focused on Artificial Intelligence and Data Structures & Algorithms. I focus on solving complex problems and building robust systems:
 </p>
 
 <div align="center">
@@ -49,14 +43,9 @@
   </table>
 </div>
 
-<p align="center">
-  <i>"Dream big, work hard, and make it happen."</i>
-</p>
-
 ---
 
-<!-- Technical Skills Section -->
-<h2>Technical Skills</h2>
+## Technical Skills
 
 <div align="center">
 
@@ -113,21 +102,6 @@
 
 ---
 
-## GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahx404&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahx404&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-### Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahx404&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</div>
-
----
-
 <!-- Connect With Me -->
 <h2 align="center">Let's Connect</h2>
 
@@ -140,10 +114,5 @@
 <hr>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
-  
-  <p>Thanks for visiting my profile! Have a great day!</p>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people, so if you want to say <b>hi, I'll be happy to meet you!</b></em>
+  <p>Thanks for visiting my profile!</p>
 </div>

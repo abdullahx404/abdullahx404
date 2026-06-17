@@ -10,6 +10,12 @@
   <a href="https://github.com/abdullahx404"><img src="https://komarev.com/ghpvc/?username=abdullahx404&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile views"/></a>
 </div>
 
+<!-- Quick Status Cards -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahx404&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahx404&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</div>
+
 ---
 
 ## About Me
@@ -98,6 +104,21 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
 </p>
 
+</div>
+
+---
+
+## GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahx404&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahx404&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+### Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahx404&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 ---

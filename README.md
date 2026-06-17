@@ -112,13 +112,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahx404&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahx404&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-### Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahx404&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 ---
